@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Henny+Penny&size=25&pause=5000&color=4B71FB&background=FFFFFF00&vCenter=true&width=435&lines=Attachment+is+the+root+of+all+suffering.)](https://git.io/typing-svg)
 
-[![rentry-git-(untitled-690)-20260915101318.png](https://i.postimg.cc/Jnb7jJcX/rentry-git-(untitled-690)-20260915101318.png)](https://postimg.cc/YGCwHvP2)
+[![rentry-git-(untitled-690)-20260915101318.png](https://i.postimg.cc/Jnb7jJcX/rentry-git-(untitled-690)-20260915101318.png)](https://github.com/vrezensky)
 
 [![Tak-berjudul692-20260915105340.png](https://i.postimg.cc/Hx2wBJTp/Tak-berjudul692-20260915105340.png)](https://skybluestriker.straw.page/)
 
