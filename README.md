@@ -27,8 +27,24 @@
 
 ![](https://komarev.com/ghpvc/?username=Matt-Engarde&label=𐂯.ᐟ⸝⸝&color=86bddc)
 
-[![vrezensky-on-git.png](https://i.postimg.cc/xdCdqLHD/vrezensky-on-git.png)](https://postimg.cc/0zTvBMcc)
+</div>
 
+<div align = "Left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&pause=1000&color=86BDDC&width=600&height=150&lines=ㅤㅤㅤㅤㅤ+It's+called+%22growing+up%22.)](https://git.io/typing-svg)
+
+</div>
+
+[![vrezensky was here](https://i.postimg.cc/kgwpfbHB/Tak-berjudul698-20260926124541.png)](https://github.com/vrezensky)
+
+<div align = "Center">
+  
 <img src = "https://i.postimg.cc/xdCdqLH0/3.png" width=25%> <img src = "https://i.postimg.cc/d010DGdQ/2.png" width=32%>
+
+</div>
+
+<div align = "Right">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&pause=1000&color=86BDDC&width=600&height=150&lines=Isn't+that+what+you+wanted%3F)](https://git.io/typing-svg)
 
 [![IMG-20260926-121845.png](https://i.postimg.cc/zDpPFWHC/IMG-20260926-121845.png)](https://postimg.cc/V5rRYJRv)
