@@ -18,33 +18,32 @@
 
 </div>
 
+4 Matt
 
 <div align = "Center">
-
-4 Matt
 
 [![IMG-20260926-121845.png](https://i.postimg.cc/zDpPFWHC/IMG-20260926-121845.png)](https://postimg.cc/V5rRYJRv)
 
 ![](https://komarev.com/ghpvc/?username=Matt-Engarde&label=𐂯.ᐟ⸝⸝&color=86bddc)
 
-</div>
+𓏵
 
-<div align = "Left">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&pause=1000&color=86BDDC&width=600&height=150&lines=ㅤㅤㅤㅤㅤ+It's+called+%22growing+up%22.)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&pause=1000&color=86BDDC&width=600&height=150&center=true&lines=It's+called+%22growing+up%22.)](https://git.io/typing-svg)
 
 [![vrezensky was here](https://i.postimg.cc/kgwpfbHB/Tak-berjudul698-20260926124541.png)](https://github.com/vrezensky)
 
-<div align = "Center">
+<a href = "https://averyradical.straw.page/">
+  <img src = "https://i.postimg.cc/xdCdqLH0/3.png" width=25%> 
+</a>
+
+𓏵
   
-<img src = "https://i.postimg.cc/xdCdqLH0/3.png" width=25%> <img src = "https://i.postimg.cc/d010DGdQ/2.png" width=32%>
+<a href = "https://comic.studio/u/RadicalEngardeXtreme">
+  <img src = "https://i.postimg.cc/d010DGdQ/2.png" width=32%>
+</a>
 
-</div>
-
-<div align = "Right">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&pause=1000&color=86BDDC&width=600&height=150&lines=Isn't+that+what+you+wanted%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&pause=1000&color=86BDDC&width=600&height=150&center=true&lines=Isn't+that+what+you+wanted%3F)](https://git.io/typing-svg)
 
 [![IMG-20260926-121845.png](https://i.postimg.cc/zDpPFWHC/IMG-20260926-121845.png)](https://postimg.cc/V5rRYJRv)
+
+</div>
